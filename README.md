@@ -1,4 +1,4 @@
-# anki_deck_audio_creator
+## Anki Deck Audio Creator
 
 With deck.py you can **generate an Anki Deck with audio files** from a file in this format:
 
@@ -16,7 +16,7 @@ All audio files will be created in /audio subdirectory. 
 
 On Windows 10, I had to move all of them to C:\\Users\\user\\AppData\\Roaming\\Anki2\\MyUser\\collection.media before importing the CSV into Anki.
 
-Features:
+**Features:**
 
 *   Automatic generate audio with Google Translate.
 *   Create an Anki compatible csv, ready to import.
